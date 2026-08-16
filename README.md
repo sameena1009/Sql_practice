@@ -46,11 +46,12 @@ sql-practice/
 
 ## 🧾 Datasets Used
 
-Dataset| Description
-"employee_data"| Employee records — ID, name, department, salary, age, joining date, city
-"customer_data"| Customer records — ID, name, email, city, registration date
-"sales_data"| Transaction records — order ID, customer ID, product, quantity, unit price, payment mode, order date
-"customers" (messy)| 200-row raw dataset with intentional inconsistencies: NULLs, blank strings, duplicate records, mixed casing, extra whitespace, malformed emails, and negative sales values — used to practice real-world data cleaning
+| Dataset | Description |
+|---|---|
+| `employee_data` | Employee records — ID, name, department, salary, age, joining date, city |
+| `customer_data` | Customer records — ID, name, email, city, registration date |
+| `sales_data` | Transaction records — order ID, customer ID, product, quantity, unit price, payment mode, order date |
+| `messy_customer_data_200_rows` | 200-row raw dataset with intentional inconsistencies: NULLs, blank strings, duplicate records, mixed casing, extra whitespace, malformed emails, and negative sales values — used to practice real-world data cleaning |
 
 ---
 
