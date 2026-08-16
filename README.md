@@ -1,6 +1,8 @@
 
 
 
+
+
 # SQL Practice Repository — Data Analytics Track
 
 A structured collection of SQL practice scripts covering core querying, aggregation, joins, subqueries, window functions, and real-world data cleaning — built while preparing for a **Data Analyst** role.
