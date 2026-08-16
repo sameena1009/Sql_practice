@@ -1,19 +1,19 @@
 
 
 
-#SQL Practice Repository — Data Analytics Track
+# SQL Practice Repository — Data Analytics Track
 
 A structured collection of SQL practice scripts covering core querying, aggregation, joins, subqueries, window functions, and real-world data cleaning — built while preparing for a Data Analyst role.
 
 ---
 
-##📌 About This Repository
+## 📌 About This Repository
 
 This repo documents hands-on SQL practice across three sample datasets ("employee_data", "customer_data", "sales_data") plus a dedicated messy dataset used specifically for data cleaning exercises. Each file targets one SQL concept, moving from basic retrieval to advanced analytical queries — the kind of progression expected for data analytics interviews and day-to-day reporting work.
 
 ---
 
-##🗂️ Repository Structure
+## 🗂️ Repository Structure
 
 sql-practice/
 │
@@ -41,7 +41,7 @@ sql-practice/
 
 ---
 
-##🧾 Datasets Used
+## 🧾 Datasets Used
 
 Dataset| Description
 "employee_data"| Employee records — ID, name, department, salary, age, joining date, city
@@ -51,7 +51,7 @@ Dataset| Description
 
 ---
 
-##🎯 Topics Covered
+## 🎯 Topics Covered
 
 - Data Retrieval – "SELECT", column filtering, aliasing
 - Filtering – "WHERE", "AND"/"OR", "IN", "LIKE", "BETWEEN", comparison operators
@@ -68,7 +68,7 @@ Dataset| Description
 
 ---
 
-##🧹 Data Cleaning Highlights ("14_DATA_CLEANING.sql")
+## 🧹 Data Cleaning Highlights ("14_DATA_CLEANING.sql")
 
 A full cleaning pipeline applied to a purposely messy 200-row customer dataset:
 
@@ -86,7 +86,7 @@ This mirrors the kind of raw-data cleanup an analyst regularly performs before b
 
 ---
 
-##🛠️ Tools & Environment
+## 🛠️ Tools & Environment
 
 - Database: MySQL
 - Interface: MySQL Workbench / any standard SQL client
@@ -94,7 +94,7 @@ This mirrors the kind of raw-data cleanup an analyst regularly performs before b
 
 ---
 
-##🚀 How to Use
+## 🚀 How to Use
 
 1. Clone or download this repository.
 2. Load "employee_data.sql", "customer_data.sql", "sales_data.sql", and "messy_customer_data_200_rows.sql" first to create the practice database and tables.
@@ -103,12 +103,12 @@ This mirrors the kind of raw-data cleanup an analyst regularly performs before b
 
 ---
 
-##📈 Purpose
+## 📈 Purpose
 
 Built as part of self-guided preparation for Data Analyst interviews and projects — focused on writing clean, readable, and business-relevant SQL rather than just syntax memorization.
 
 ---
 
-##👤 Author
+## 👤 Author
 
 Maintained as a personal SQL practice log. Feedback and suggestions welcome.
