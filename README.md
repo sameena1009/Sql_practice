@@ -15,6 +15,7 @@ This repo documents hands-on SQL practice across three sample datasets ("employe
 
 ## 🗂️ Repository Structure
 
+```text
 sql-practice/
 │
 ├── datasets/
@@ -37,7 +38,9 @@ sql-practice/
 ├── 12_WINDOW_FUNCTIONS.sql
 ├── 13_JOINS.sql
 ├── 14_DATA_CLEANING.sql
+│
 └── README.md
+```
 
 ---
 
